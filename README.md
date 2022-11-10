@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Blockchain & React
-- 🌱 I’m currently learning Blockchain
+- 🔭 I’m currently working on Blockchain
+- 🌱 I’m currently learning React
 - 💬 Ask me about what u want
 - 📫 How to reach me: yealp8@gmail.com
 - ⚡ Fun fact: I ❤️ 🐱s and NBA & u can add me (XboxName: Ragnir5961)
