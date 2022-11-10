@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Blockchain
 - 🌱 I’m currently learning React
 - 💬 Ask me about what u want
-- 📫 How to reach me: yealp8@gmail.com
+- 📫 How to reach me: yemrealpak@outlook.com
 - ⚡ Fun fact: I ❤️ 🐱s and NBA & u can add me (XboxName: Ragnir5961)
 
 <img src="https://github.com/yemrealpak/yemrealpak/blob/main/me.png" width="auto">
