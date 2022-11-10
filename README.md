@@ -11,8 +11,8 @@
 
 
 
-[![website](./img/terminal-light.svg)](https://medium.com/@yemrealpak#gh-light-mode-only)
-[![website](./img/terminal-dark.svg)](https://medium.com/@yemrealpak#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://medium.com/@yemrealpak#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://medium.com/@yemrealpak#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/yealpak#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/yealpak#gh-dark-mode-only)
