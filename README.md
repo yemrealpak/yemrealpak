@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React
 - 💬 Ask me about what u want
 - 📫 How to reach me: yemrealpak@outlook.com
-- ⚡ Fun fact: I ❤️ 🐱s and NBA & u can add me (XboxName: Ragnir5961)
+- ⚡ Fun fact: I ❤️ 🐱s and NBA & u can add me (XboxName: Ragnir2369)(Discord: YeaLebron#4836)
 
 
 ### Connect with me:
