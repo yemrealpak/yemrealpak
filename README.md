@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Blockchain
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning React
 - 💬 Ask me about what u want
 - 📫 How to reach me: yemrealpak@outlook.com
