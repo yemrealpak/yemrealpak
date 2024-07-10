@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on Backend & Mobile Development
+- 🌱 I’m currently learning .NET, Machine Learning
 - 💬 Ask me about what u want
 - 📫 How to reach me: yemrealpak@outlook.com
 - ⚡ Fun fact: I ❤️ 🐱s and NBA & u can add me (XboxName: Ragnir2369)(Discord: YeaLebron#4836)
